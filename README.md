@@ -3,9 +3,17 @@
 
 # Greenwood Library Website
 
-## Steps for All Git Operations Performed
+## Description - 
 
-### 1. Creating the Repository
+ # Capstone Project: Demonstrating Proficiency in Git Operations
+
+This project highlights the skills and knowledge I have gained during the Git Operations course, showcasing my ability to manage version control effectively and collaborate in a development environment. It includes creating and managing branches to isolate feature development, staging, committing, and pushing file changes from the local repository to the remote repository. Detailed snapshots are provided as evidence of the commands executed and tasks performed, ensuring thorough documentation and transparency. This capstone project solidifies my understanding of Git as a vital tool for software development and collaboration.
+
+
+
+### Steps for All Git Operations Performed
+
+#### 1. Creating the Repository
 - Click on the web link for **Clone using web url** 
   ![image](https://github.com/user-attachments/assets/9efbafe2-6f2d-4bc6-aa4d-b037ae1ff14c)
 - Open your Git folder in your Git bash and run:  
