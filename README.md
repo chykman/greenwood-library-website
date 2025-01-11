@@ -5,7 +5,7 @@
 
 ## Description - 
 
- # Capstone Project: Demonstrating Proficiency in Git Operations
+ # Capstone Project: Enhnacing a Community Library website
 
 This project highlights the skills and knowledge I have gained during the Git Operations course, showcasing my ability to manage version control effectively and collaborate in a development environment. It includes creating and managing branches to isolate feature development, staging, committing, and pushing file changes from the local repository to the remote repository. Detailed snapshots are provided as evidence of the commands executed and tasks performed, ensuring thorough documentation and transparency. This capstone project solidifies my understanding of Git as a vital tool for software development and collaboration.
 
